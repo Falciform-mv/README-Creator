@@ -1,6 +1,6 @@
-# fantastic
+# README Creator
   ## Description
-  the quick brown fox jumps over the lazy dog
+  A Command Line application that accepts user input and generates a dynamic README.md file based on user input
   ## Licenses
   MIT
 
